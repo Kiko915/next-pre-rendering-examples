@@ -1,0 +1,46 @@
+{
+  "posts": [
+    { "id": 1, "title": "json-server", "author": "typicode" },
+    { "id": 2, "title": "next-project", "author": "kiko" },
+    { "id": 3, "title": "New Article", "author": "kiko" },
+    { "id": 4, "title": "4th-post", "author": "John Doe" },
+    { "id": 5, "title": "5th-post", "author": "John Doe" },
+    { "id": 6, "title": "Next is a best!", "author": "kiko" }
+  ],
+  "users": [
+    { "id": 1, "username": "George", "age": 25 },
+    { "id": 2, "username": "Oklits", "age": 18 }
+  ],
+  "news": [
+    {
+      "id": 1,
+      "headlines": "The First News",
+      "description": "This will be the first news article.",
+      "publishedAt": "2022-01-01"
+    },
+    {
+      "id": 2,
+      "headlines": "Zha 2nd News!",
+      "description": "Beware of this 2nd news because next.js is bloody awesome!",
+      "publishedAt": "2022-02-01"
+    },
+    {
+      "id": 3,
+      "headlines": "Heyy!!!",
+      "description": "This is the best headline ever!!!",
+      "publishedAt": "2022-02-23"
+    },
+    {
+      "id": 4,
+      "headlines": "Breaking News!",
+      "description": "The best version of webstorm is up and can be accessed by everyone everywhere. This webstorm version is now free and some people wished that this is true!",
+      "publishedAt": "2022-02-23"
+    },
+    {
+      "id": 5,
+      "headlines": "This is a golga!",
+      "description": "This is a golgotta statue and mamita nana...",
+      "publishedAt": "2022-02-24"
+    }
+  ]
+}

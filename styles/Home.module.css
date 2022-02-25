@@ -108,6 +108,18 @@
   margin-left: 0.5rem;
 }
 
+.banner {
+  width: 100%;
+  background: #1e90ff;
+  color: #fff;
+  padding: 1em 1.5em;
+  text-align: center;
+}
+
+.userDetails {
+  padding: 0 1em;
+}
+
 @media (max-width: 600px) {
   .grid {
     width: 100%;
